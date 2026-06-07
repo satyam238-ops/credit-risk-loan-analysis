@@ -79,6 +79,17 @@ Project Workflow
 -Credit score distribution suggested that lower-risk customers generally qualified for larger loan amounts. 
 -The dashboard provides a consolidated view of customer behavior, lending trends, and risk indicators to support data-driven lending decisions.
 
+#Skills Demonstrated
+-Python
+-Data Cleaning
+-Feature Engineering
+-Exploratory Data Analysis(EDA)
+-SQL
+-Data Visualization
+-Power BI
+-Dashboard Development
+-Business Insights
+
 #Files Included
 
 - Jupyter Notebook
@@ -89,6 +100,3 @@ Project Workflow
 # source
 Kaggle(Dataset)
 -- bank-credit-test
-Skills Demonstrated
-
-Python, Data Cleaning, Exploratory Data Analysis, SQL, Data Visualization, Dashboard Development, Business Insights, Power BI
