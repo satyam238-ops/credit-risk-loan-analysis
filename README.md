@@ -71,6 +71,14 @@ Project Workflow
 - Home ownership status influenced customer credit profiles.
 - Higher credit categories generally demonstrated stronger financial stability.
 
+#Business Analysis 
+-The analysis revealed that customer credit profiles vary significantly across loan purposes and ownership categories.
+-Most customers belonged to the Good and Fair credit segments, indicating a moderate overall risk profile. 
+-Loan demand was concentrated in a few key purposes, with certain categories showing higher average borrowing amounts. 
+-Home ownership patterns highlighted differences in financial stability among customers.
+-Credit score distribution suggested that lower-risk customers generally qualified for larger loan amounts. 
+-The dashboard provides a consolidated view of customer behavior, lending trends, and risk indicators to support data-driven lending decisions.
+
 #Files Included
 
 - Jupyter Notebook
